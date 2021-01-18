@@ -13,7 +13,9 @@ The temperature statistics are summarized in the tables bellow.
 
 •	As expected, the average Temperature in degrees Fahrenheit for December is lower than for June, but only by 3 degrees. An average temperature in the low seventies bodes well for a Lū’au style business model even in a winter month. 
 
+![image](https://github.com/mcpoley/surfs_up/blob/main/TOBs%20June.png)
 
+![image](https://github.com/mcpoley/surfs_up/blob/main/TOBS%20December.png)
 
 
 
